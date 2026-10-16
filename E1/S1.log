@@ -1,0 +1,16 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/saileshningthoujam/Documents/LTspice/EDA Lab/E1/Q1.net
+Start Time: Thu Oct 15 19:15:54 2026
+solver = Normal
+Maximum thread count: 10
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.092 seconds.
+
+Files loaded:
+/Users/saileshningthoujam/Documents/LTspice/EDA Lab/E1/Q1.net
+/Users/saileshningthoujam/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.mos
+/Users/saileshningthoujam/Documents/LTspice/EDA Lab/E1/65nm_bulk_organized.pm
+

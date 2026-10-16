@@ -1,0 +1,26 @@
+LTspice 26.0.2 for MacOS
+Circuit: /Users/saileshningthoujam/Documents/LTspice/EDA Lab/E5/S5.net
+Start Time: Thu Oct 15 21:14:36 2026
+Options:ALLOW_AMBIGUOUS_MODELS
+solver = Normal
+Maximum thread count: 10
+tnom = 27
+temp = 27
+method = trap
+Y:\Documents\LTspice\EDA Lab\E5\S5.net(6): Missing value, assuming 0V @ DC.
+
+Vg1 N004 0
+^^^^^^^^^^
+Y:\Documents\LTspice\EDA Lab\E5\S5.net(12): Missing value, assuming 0V @ DC.
+
+Vd2 N001 0
+^^^^^^^^^^
+Total elapsed time: 0.086 seconds.
+
+Files loaded:
+/Users/saileshningthoujam/Documents/LTspice/EDA Lab/E5/S5.net
+/Users/saileshningthoujam/Library/Application Support/LTspice/Bottles/ltspice/drive_c/users/crossover/AppData/Local/LTspice/lib/cmp/standard.mos
+/Users/saileshningthoujam/Documents/LTspice/EDA Lab/E5/65nm_bulk_organized0.pm
+/Users/saileshningthoujam/Documents/LTspice/EDA Lab/E5/65nm_bulk_organized1.pm
+/Users/saileshningthoujam/Documents/LTspice/EDA Lab/E5/65nm_bulk_organized2.pm
+
